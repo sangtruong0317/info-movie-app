@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/info-movie-app/static/css/main.868c0b23.css",
+    "main.js": "/info-movie-app/static/js/main.8ef79c6e.js",
+    "static/media/default_bg.png": "/info-movie-app/static/media/default_bg.96cdbdee3d14f9824063.png",
+    "static/media/logo1.svg.png": "/info-movie-app/static/media/logo1.svg.b0d97972d1a190e78bf3.png",
+    "static/media/footer-bg.jpg": "/info-movie-app/static/media/footer-bg.7b1562b2b943d2f5056c.jpg",
+    "static/media/apple.ico": "/info-movie-app/static/media/apple.4cbc8531c885b72dc8e1.ico",
+    "index.html": "/info-movie-app/index.html",
+    "static/media/google.svg": "/info-movie-app/static/media/google.b63150d525a57355ef6f0a99b53a9367.svg",
+    "static/media/movie-icon.svg": "/info-movie-app/static/media/movie-icon.17ca78640f973a983c5cd4ffec8a19d2.svg",
+    "static/media/series-icon.svg": "/info-movie-app/static/media/series-icon.0389920894c4b3087f95d5eeb55ad3f3.svg",
+    "static/media/home-icon.svg": "/info-movie-app/static/media/home-icon.e4b30aaa9f5e9951fbd071b73b129cb4.svg",
+    "main.868c0b23.css.map": "/info-movie-app/static/css/main.868c0b23.css.map",
+    "main.8ef79c6e.js.map": "/info-movie-app/static/js/main.8ef79c6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.868c0b23.css",
+    "static/js/main.8ef79c6e.js"
+  ]
+}
